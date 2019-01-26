@@ -1,0 +1,11 @@
+D:\Curso C#\ConsoleApp1\Exercicio For 06\bin\Debug\netcoreapp2.1\Exercicio For 06.deps.json
+D:\Curso C#\ConsoleApp1\Exercicio For 06\bin\Debug\netcoreapp2.1\Exercicio For 06.runtimeconfig.json
+D:\Curso C#\ConsoleApp1\Exercicio For 06\bin\Debug\netcoreapp2.1\Exercicio For 06.runtimeconfig.dev.json
+D:\Curso C#\ConsoleApp1\Exercicio For 06\bin\Debug\netcoreapp2.1\Exercicio For 06.dll
+D:\Curso C#\ConsoleApp1\Exercicio For 06\bin\Debug\netcoreapp2.1\Exercicio For 06.pdb
+D:\Curso C#\ConsoleApp1\Exercicio For 06\obj\Debug\netcoreapp2.1\Exercicio For 06.csproj.CoreCompileInputs.cache
+D:\Curso C#\ConsoleApp1\Exercicio For 06\obj\Debug\netcoreapp2.1\Exercicio For 06.AssemblyInfoInputs.cache
+D:\Curso C#\ConsoleApp1\Exercicio For 06\obj\Debug\netcoreapp2.1\Exercicio For 06.AssemblyInfo.cs
+D:\Curso C#\ConsoleApp1\Exercicio For 06\obj\Debug\netcoreapp2.1\Exercicio For 06.dll
+D:\Curso C#\ConsoleApp1\Exercicio For 06\obj\Debug\netcoreapp2.1\Exercicio For 06.pdb
+D:\Curso C#\ConsoleApp1\Exercicio For 06\obj\Debug\netcoreapp2.1\Exercicio For 06.csprojAssemblyReference.cache

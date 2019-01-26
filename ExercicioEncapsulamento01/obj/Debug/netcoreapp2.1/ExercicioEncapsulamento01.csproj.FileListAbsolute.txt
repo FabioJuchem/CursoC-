@@ -1,0 +1,11 @@
+D:\Curso C#\ConsoleApp1\ExercicioEncapsulamento01\bin\Debug\netcoreapp2.1\ExercicioEncapsulamento01.deps.json
+D:\Curso C#\ConsoleApp1\ExercicioEncapsulamento01\bin\Debug\netcoreapp2.1\ExercicioEncapsulamento01.runtimeconfig.json
+D:\Curso C#\ConsoleApp1\ExercicioEncapsulamento01\bin\Debug\netcoreapp2.1\ExercicioEncapsulamento01.runtimeconfig.dev.json
+D:\Curso C#\ConsoleApp1\ExercicioEncapsulamento01\bin\Debug\netcoreapp2.1\ExercicioEncapsulamento01.dll
+D:\Curso C#\ConsoleApp1\ExercicioEncapsulamento01\bin\Debug\netcoreapp2.1\ExercicioEncapsulamento01.pdb
+D:\Curso C#\ConsoleApp1\ExercicioEncapsulamento01\obj\Debug\netcoreapp2.1\ExercicioEncapsulamento01.csprojAssemblyReference.cache
+D:\Curso C#\ConsoleApp1\ExercicioEncapsulamento01\obj\Debug\netcoreapp2.1\ExercicioEncapsulamento01.csproj.CoreCompileInputs.cache
+D:\Curso C#\ConsoleApp1\ExercicioEncapsulamento01\obj\Debug\netcoreapp2.1\ExercicioEncapsulamento01.AssemblyInfoInputs.cache
+D:\Curso C#\ConsoleApp1\ExercicioEncapsulamento01\obj\Debug\netcoreapp2.1\ExercicioEncapsulamento01.AssemblyInfo.cs
+D:\Curso C#\ConsoleApp1\ExercicioEncapsulamento01\obj\Debug\netcoreapp2.1\ExercicioEncapsulamento01.dll
+D:\Curso C#\ConsoleApp1\ExercicioEncapsulamento01\obj\Debug\netcoreapp2.1\ExercicioEncapsulamento01.pdb

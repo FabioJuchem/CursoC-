@@ -1,0 +1,10 @@
+D:\Curso C#\ConsoleApp1\Exercicio Condicional 07\bin\Debug\netcoreapp2.1\Exercicio Condicional 07.deps.json
+D:\Curso C#\ConsoleApp1\Exercicio Condicional 07\bin\Debug\netcoreapp2.1\Exercicio Condicional 07.runtimeconfig.json
+D:\Curso C#\ConsoleApp1\Exercicio Condicional 07\bin\Debug\netcoreapp2.1\Exercicio Condicional 07.runtimeconfig.dev.json
+D:\Curso C#\ConsoleApp1\Exercicio Condicional 07\bin\Debug\netcoreapp2.1\Exercicio Condicional 07.dll
+D:\Curso C#\ConsoleApp1\Exercicio Condicional 07\bin\Debug\netcoreapp2.1\Exercicio Condicional 07.pdb
+D:\Curso C#\ConsoleApp1\Exercicio Condicional 07\obj\Debug\netcoreapp2.1\Exercicio Condicional 07.csproj.CoreCompileInputs.cache
+D:\Curso C#\ConsoleApp1\Exercicio Condicional 07\obj\Debug\netcoreapp2.1\Exercicio Condicional 07.AssemblyInfoInputs.cache
+D:\Curso C#\ConsoleApp1\Exercicio Condicional 07\obj\Debug\netcoreapp2.1\Exercicio Condicional 07.AssemblyInfo.cs
+D:\Curso C#\ConsoleApp1\Exercicio Condicional 07\obj\Debug\netcoreapp2.1\Exercicio Condicional 07.dll
+D:\Curso C#\ConsoleApp1\Exercicio Condicional 07\obj\Debug\netcoreapp2.1\Exercicio Condicional 07.pdb

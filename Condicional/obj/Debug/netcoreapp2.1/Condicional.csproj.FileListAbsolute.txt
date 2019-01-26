@@ -1,0 +1,11 @@
+D:\Curso C#\ConsoleApp1\Condicional\bin\Debug\netcoreapp2.1\Condicional.deps.json
+D:\Curso C#\ConsoleApp1\Condicional\bin\Debug\netcoreapp2.1\Condicional.runtimeconfig.json
+D:\Curso C#\ConsoleApp1\Condicional\bin\Debug\netcoreapp2.1\Condicional.runtimeconfig.dev.json
+D:\Curso C#\ConsoleApp1\Condicional\bin\Debug\netcoreapp2.1\Condicional.dll
+D:\Curso C#\ConsoleApp1\Condicional\bin\Debug\netcoreapp2.1\Condicional.pdb
+D:\Curso C#\ConsoleApp1\Condicional\obj\Debug\netcoreapp2.1\Condicional.csprojAssemblyReference.cache
+D:\Curso C#\ConsoleApp1\Condicional\obj\Debug\netcoreapp2.1\Condicional.csproj.CoreCompileInputs.cache
+D:\Curso C#\ConsoleApp1\Condicional\obj\Debug\netcoreapp2.1\Condicional.AssemblyInfoInputs.cache
+D:\Curso C#\ConsoleApp1\Condicional\obj\Debug\netcoreapp2.1\Condicional.AssemblyInfo.cs
+D:\Curso C#\ConsoleApp1\Condicional\obj\Debug\netcoreapp2.1\Condicional.dll
+D:\Curso C#\ConsoleApp1\Condicional\obj\Debug\netcoreapp2.1\Condicional.pdb

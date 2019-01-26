@@ -1,0 +1,10 @@
+D:\Curso C#\ConsoleApp1\Exercicio While 03\bin\Debug\netcoreapp2.1\Exercicio While 03.deps.json
+D:\Curso C#\ConsoleApp1\Exercicio While 03\bin\Debug\netcoreapp2.1\Exercicio While 03.runtimeconfig.json
+D:\Curso C#\ConsoleApp1\Exercicio While 03\bin\Debug\netcoreapp2.1\Exercicio While 03.runtimeconfig.dev.json
+D:\Curso C#\ConsoleApp1\Exercicio While 03\bin\Debug\netcoreapp2.1\Exercicio While 03.dll
+D:\Curso C#\ConsoleApp1\Exercicio While 03\bin\Debug\netcoreapp2.1\Exercicio While 03.pdb
+D:\Curso C#\ConsoleApp1\Exercicio While 03\obj\Debug\netcoreapp2.1\Exercicio While 03.csproj.CoreCompileInputs.cache
+D:\Curso C#\ConsoleApp1\Exercicio While 03\obj\Debug\netcoreapp2.1\Exercicio While 03.AssemblyInfoInputs.cache
+D:\Curso C#\ConsoleApp1\Exercicio While 03\obj\Debug\netcoreapp2.1\Exercicio While 03.AssemblyInfo.cs
+D:\Curso C#\ConsoleApp1\Exercicio While 03\obj\Debug\netcoreapp2.1\Exercicio While 03.dll
+D:\Curso C#\ConsoleApp1\Exercicio While 03\obj\Debug\netcoreapp2.1\Exercicio While 03.pdb

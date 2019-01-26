@@ -1,0 +1,11 @@
+D:\Curso C#\ConsoleApp1\ExemploConstrutor\bin\Debug\netcoreapp2.1\ExemploConstrutor.deps.json
+D:\Curso C#\ConsoleApp1\ExemploConstrutor\bin\Debug\netcoreapp2.1\ExemploConstrutor.runtimeconfig.json
+D:\Curso C#\ConsoleApp1\ExemploConstrutor\bin\Debug\netcoreapp2.1\ExemploConstrutor.runtimeconfig.dev.json
+D:\Curso C#\ConsoleApp1\ExemploConstrutor\bin\Debug\netcoreapp2.1\ExemploConstrutor.dll
+D:\Curso C#\ConsoleApp1\ExemploConstrutor\bin\Debug\netcoreapp2.1\ExemploConstrutor.pdb
+D:\Curso C#\ConsoleApp1\ExemploConstrutor\obj\Debug\netcoreapp2.1\ExemploConstrutor.csproj.CoreCompileInputs.cache
+D:\Curso C#\ConsoleApp1\ExemploConstrutor\obj\Debug\netcoreapp2.1\ExemploConstrutor.AssemblyInfoInputs.cache
+D:\Curso C#\ConsoleApp1\ExemploConstrutor\obj\Debug\netcoreapp2.1\ExemploConstrutor.AssemblyInfo.cs
+D:\Curso C#\ConsoleApp1\ExemploConstrutor\obj\Debug\netcoreapp2.1\ExemploConstrutor.dll
+D:\Curso C#\ConsoleApp1\ExemploConstrutor\obj\Debug\netcoreapp2.1\ExemploConstrutor.pdb
+D:\Curso C#\ConsoleApp1\ExemploConstrutor\obj\Debug\netcoreapp2.1\ExemploConstrutor.csprojAssemblyReference.cache

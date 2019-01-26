@@ -1,0 +1,11 @@
+D:\Curso C#\ConsoleApp1\Lógicos\bin\Debug\netcoreapp2.1\Lógicos.deps.json
+D:\Curso C#\ConsoleApp1\Lógicos\bin\Debug\netcoreapp2.1\Lógicos.runtimeconfig.json
+D:\Curso C#\ConsoleApp1\Lógicos\bin\Debug\netcoreapp2.1\Lógicos.runtimeconfig.dev.json
+D:\Curso C#\ConsoleApp1\Lógicos\bin\Debug\netcoreapp2.1\Lógicos.dll
+D:\Curso C#\ConsoleApp1\Lógicos\bin\Debug\netcoreapp2.1\Lógicos.pdb
+D:\Curso C#\ConsoleApp1\Lógicos\obj\Debug\netcoreapp2.1\Lógicos.csprojAssemblyReference.cache
+D:\Curso C#\ConsoleApp1\Lógicos\obj\Debug\netcoreapp2.1\Lógicos.csproj.CoreCompileInputs.cache
+D:\Curso C#\ConsoleApp1\Lógicos\obj\Debug\netcoreapp2.1\Lógicos.AssemblyInfoInputs.cache
+D:\Curso C#\ConsoleApp1\Lógicos\obj\Debug\netcoreapp2.1\Lógicos.AssemblyInfo.cs
+D:\Curso C#\ConsoleApp1\Lógicos\obj\Debug\netcoreapp2.1\Lógicos.dll
+D:\Curso C#\ConsoleApp1\Lógicos\obj\Debug\netcoreapp2.1\Lógicos.pdb

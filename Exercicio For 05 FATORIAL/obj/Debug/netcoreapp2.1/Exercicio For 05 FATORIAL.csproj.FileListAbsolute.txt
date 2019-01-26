@@ -1,0 +1,11 @@
+D:\Curso C#\ConsoleApp1\Exercicio For 05 FATORIAL\bin\Debug\netcoreapp2.1\Exercicio For 05 FATORIAL.deps.json
+D:\Curso C#\ConsoleApp1\Exercicio For 05 FATORIAL\bin\Debug\netcoreapp2.1\Exercicio For 05 FATORIAL.runtimeconfig.json
+D:\Curso C#\ConsoleApp1\Exercicio For 05 FATORIAL\bin\Debug\netcoreapp2.1\Exercicio For 05 FATORIAL.runtimeconfig.dev.json
+D:\Curso C#\ConsoleApp1\Exercicio For 05 FATORIAL\bin\Debug\netcoreapp2.1\Exercicio For 05 FATORIAL.dll
+D:\Curso C#\ConsoleApp1\Exercicio For 05 FATORIAL\bin\Debug\netcoreapp2.1\Exercicio For 05 FATORIAL.pdb
+D:\Curso C#\ConsoleApp1\Exercicio For 05 FATORIAL\obj\Debug\netcoreapp2.1\Exercicio For 05 FATORIAL.csproj.CoreCompileInputs.cache
+D:\Curso C#\ConsoleApp1\Exercicio For 05 FATORIAL\obj\Debug\netcoreapp2.1\Exercicio For 05 FATORIAL.AssemblyInfoInputs.cache
+D:\Curso C#\ConsoleApp1\Exercicio For 05 FATORIAL\obj\Debug\netcoreapp2.1\Exercicio For 05 FATORIAL.AssemblyInfo.cs
+D:\Curso C#\ConsoleApp1\Exercicio For 05 FATORIAL\obj\Debug\netcoreapp2.1\Exercicio For 05 FATORIAL.dll
+D:\Curso C#\ConsoleApp1\Exercicio For 05 FATORIAL\obj\Debug\netcoreapp2.1\Exercicio For 05 FATORIAL.pdb
+D:\Curso C#\ConsoleApp1\Exercicio For 05 FATORIAL\obj\Debug\netcoreapp2.1\Exercicio For 05 FATORIAL.csprojAssemblyReference.cache

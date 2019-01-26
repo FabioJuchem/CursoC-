@@ -1,0 +1,11 @@
+D:\Curso C#\ConsoleApp1\comparativos\bin\Debug\netcoreapp2.1\comparativos.deps.json
+D:\Curso C#\ConsoleApp1\comparativos\bin\Debug\netcoreapp2.1\comparativos.runtimeconfig.json
+D:\Curso C#\ConsoleApp1\comparativos\bin\Debug\netcoreapp2.1\comparativos.runtimeconfig.dev.json
+D:\Curso C#\ConsoleApp1\comparativos\bin\Debug\netcoreapp2.1\comparativos.dll
+D:\Curso C#\ConsoleApp1\comparativos\bin\Debug\netcoreapp2.1\comparativos.pdb
+D:\Curso C#\ConsoleApp1\comparativos\obj\Debug\netcoreapp2.1\comparativos.csproj.CoreCompileInputs.cache
+D:\Curso C#\ConsoleApp1\comparativos\obj\Debug\netcoreapp2.1\comparativos.AssemblyInfoInputs.cache
+D:\Curso C#\ConsoleApp1\comparativos\obj\Debug\netcoreapp2.1\comparativos.AssemblyInfo.cs
+D:\Curso C#\ConsoleApp1\comparativos\obj\Debug\netcoreapp2.1\comparativos.dll
+D:\Curso C#\ConsoleApp1\comparativos\obj\Debug\netcoreapp2.1\comparativos.pdb
+D:\Curso C#\ConsoleApp1\comparativos\obj\Debug\netcoreapp2.1\comparativos.csprojAssemblyReference.cache

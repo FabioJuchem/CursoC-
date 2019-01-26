@@ -1,0 +1,11 @@
+D:\Curso C#\ConsoleApp1\EstruturaWhile\bin\Debug\netcoreapp2.1\EstruturaWhile.deps.json
+D:\Curso C#\ConsoleApp1\EstruturaWhile\bin\Debug\netcoreapp2.1\EstruturaWhile.runtimeconfig.json
+D:\Curso C#\ConsoleApp1\EstruturaWhile\bin\Debug\netcoreapp2.1\EstruturaWhile.runtimeconfig.dev.json
+D:\Curso C#\ConsoleApp1\EstruturaWhile\bin\Debug\netcoreapp2.1\EstruturaWhile.dll
+D:\Curso C#\ConsoleApp1\EstruturaWhile\bin\Debug\netcoreapp2.1\EstruturaWhile.pdb
+D:\Curso C#\ConsoleApp1\EstruturaWhile\obj\Debug\netcoreapp2.1\EstruturaWhile.csproj.CoreCompileInputs.cache
+D:\Curso C#\ConsoleApp1\EstruturaWhile\obj\Debug\netcoreapp2.1\EstruturaWhile.AssemblyInfoInputs.cache
+D:\Curso C#\ConsoleApp1\EstruturaWhile\obj\Debug\netcoreapp2.1\EstruturaWhile.AssemblyInfo.cs
+D:\Curso C#\ConsoleApp1\EstruturaWhile\obj\Debug\netcoreapp2.1\EstruturaWhile.dll
+D:\Curso C#\ConsoleApp1\EstruturaWhile\obj\Debug\netcoreapp2.1\EstruturaWhile.pdb
+D:\Curso C#\ConsoleApp1\EstruturaWhile\obj\Debug\netcoreapp2.1\EstruturaWhile.csprojAssemblyReference.cache

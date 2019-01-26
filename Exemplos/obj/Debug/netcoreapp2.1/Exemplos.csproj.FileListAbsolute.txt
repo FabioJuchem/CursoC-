@@ -1,0 +1,10 @@
+D:\Curso C#\ConsoleApp1\Exemplos\bin\Debug\netcoreapp2.1\Exemplos.deps.json
+D:\Curso C#\ConsoleApp1\Exemplos\bin\Debug\netcoreapp2.1\Exemplos.runtimeconfig.json
+D:\Curso C#\ConsoleApp1\Exemplos\bin\Debug\netcoreapp2.1\Exemplos.runtimeconfig.dev.json
+D:\Curso C#\ConsoleApp1\Exemplos\bin\Debug\netcoreapp2.1\Exemplos.dll
+D:\Curso C#\ConsoleApp1\Exemplos\bin\Debug\netcoreapp2.1\Exemplos.pdb
+D:\Curso C#\ConsoleApp1\Exemplos\obj\Debug\netcoreapp2.1\Exemplos.csproj.CoreCompileInputs.cache
+D:\Curso C#\ConsoleApp1\Exemplos\obj\Debug\netcoreapp2.1\Exemplos.AssemblyInfoInputs.cache
+D:\Curso C#\ConsoleApp1\Exemplos\obj\Debug\netcoreapp2.1\Exemplos.AssemblyInfo.cs
+D:\Curso C#\ConsoleApp1\Exemplos\obj\Debug\netcoreapp2.1\Exemplos.dll
+D:\Curso C#\ConsoleApp1\Exemplos\obj\Debug\netcoreapp2.1\Exemplos.pdb

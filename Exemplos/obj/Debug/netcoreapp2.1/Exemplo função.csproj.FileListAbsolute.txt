@@ -1,0 +1,10 @@
+D:\Curso C#\ConsoleApp1\Exemplos\bin\Debug\netcoreapp2.1\Exemplo função.deps.json
+D:\Curso C#\ConsoleApp1\Exemplos\bin\Debug\netcoreapp2.1\Exemplo função.runtimeconfig.json
+D:\Curso C#\ConsoleApp1\Exemplos\bin\Debug\netcoreapp2.1\Exemplo função.runtimeconfig.dev.json
+D:\Curso C#\ConsoleApp1\Exemplos\bin\Debug\netcoreapp2.1\Exemplo função.dll
+D:\Curso C#\ConsoleApp1\Exemplos\bin\Debug\netcoreapp2.1\Exemplo função.pdb
+D:\Curso C#\ConsoleApp1\Exemplos\obj\Debug\netcoreapp2.1\Exemplo função.csproj.CoreCompileInputs.cache
+D:\Curso C#\ConsoleApp1\Exemplos\obj\Debug\netcoreapp2.1\Exemplo função.AssemblyInfoInputs.cache
+D:\Curso C#\ConsoleApp1\Exemplos\obj\Debug\netcoreapp2.1\Exemplo função.AssemblyInfo.cs
+D:\Curso C#\ConsoleApp1\Exemplos\obj\Debug\netcoreapp2.1\Exemplo função.dll
+D:\Curso C#\ConsoleApp1\Exemplos\obj\Debug\netcoreapp2.1\Exemplo função.pdb

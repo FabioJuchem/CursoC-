@@ -1,0 +1,10 @@
+D:\Curso C#\ConsoleApp1\ExercicioClassesFixação0.2\bin\Debug\netcoreapp2.1\ExercicioClassesFixação0.2.deps.json
+D:\Curso C#\ConsoleApp1\ExercicioClassesFixação0.2\bin\Debug\netcoreapp2.1\ExercicioClassesFixação0.2.runtimeconfig.json
+D:\Curso C#\ConsoleApp1\ExercicioClassesFixação0.2\bin\Debug\netcoreapp2.1\ExercicioClassesFixação0.2.runtimeconfig.dev.json
+D:\Curso C#\ConsoleApp1\ExercicioClassesFixação0.2\bin\Debug\netcoreapp2.1\ExercicioClassesFixação0.2.dll
+D:\Curso C#\ConsoleApp1\ExercicioClassesFixação0.2\bin\Debug\netcoreapp2.1\ExercicioClassesFixação0.2.pdb
+D:\Curso C#\ConsoleApp1\ExercicioClassesFixação0.2\obj\Debug\netcoreapp2.1\ExercicioClassesFixação0.2.csproj.CoreCompileInputs.cache
+D:\Curso C#\ConsoleApp1\ExercicioClassesFixação0.2\obj\Debug\netcoreapp2.1\ExercicioClassesFixação0.2.AssemblyInfoInputs.cache
+D:\Curso C#\ConsoleApp1\ExercicioClassesFixação0.2\obj\Debug\netcoreapp2.1\ExercicioClassesFixação0.2.AssemblyInfo.cs
+D:\Curso C#\ConsoleApp1\ExercicioClassesFixação0.2\obj\Debug\netcoreapp2.1\ExercicioClassesFixação0.2.dll
+D:\Curso C#\ConsoleApp1\ExercicioClassesFixação0.2\obj\Debug\netcoreapp2.1\ExercicioClassesFixação0.2.pdb

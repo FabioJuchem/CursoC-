@@ -1,0 +1,11 @@
+D:\Curso C#\ConsoleApp1\Exercicio Condicional 04\bin\Debug\netcoreapp2.1\Exercicio Condicional 04.deps.json
+D:\Curso C#\ConsoleApp1\Exercicio Condicional 04\bin\Debug\netcoreapp2.1\Exercicio Condicional 04.runtimeconfig.json
+D:\Curso C#\ConsoleApp1\Exercicio Condicional 04\bin\Debug\netcoreapp2.1\Exercicio Condicional 04.runtimeconfig.dev.json
+D:\Curso C#\ConsoleApp1\Exercicio Condicional 04\bin\Debug\netcoreapp2.1\Exercicio Condicional 04.dll
+D:\Curso C#\ConsoleApp1\Exercicio Condicional 04\bin\Debug\netcoreapp2.1\Exercicio Condicional 04.pdb
+D:\Curso C#\ConsoleApp1\Exercicio Condicional 04\obj\Debug\netcoreapp2.1\Exercicio Condicional 04.csproj.CoreCompileInputs.cache
+D:\Curso C#\ConsoleApp1\Exercicio Condicional 04\obj\Debug\netcoreapp2.1\Exercicio Condicional 04.AssemblyInfoInputs.cache
+D:\Curso C#\ConsoleApp1\Exercicio Condicional 04\obj\Debug\netcoreapp2.1\Exercicio Condicional 04.AssemblyInfo.cs
+D:\Curso C#\ConsoleApp1\Exercicio Condicional 04\obj\Debug\netcoreapp2.1\Exercicio Condicional 04.dll
+D:\Curso C#\ConsoleApp1\Exercicio Condicional 04\obj\Debug\netcoreapp2.1\Exercicio Condicional 04.pdb
+D:\Curso C#\ConsoleApp1\Exercicio Condicional 04\obj\Debug\netcoreapp2.1\Exercicio Condicional 04.csprojAssemblyReference.cache

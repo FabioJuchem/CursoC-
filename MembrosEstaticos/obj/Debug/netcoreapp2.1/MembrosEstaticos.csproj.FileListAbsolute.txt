@@ -1,0 +1,11 @@
+D:\Curso C#\ConsoleApp1\MembrosEstaticos\bin\Debug\netcoreapp2.1\MembrosEstaticos.deps.json
+D:\Curso C#\ConsoleApp1\MembrosEstaticos\bin\Debug\netcoreapp2.1\MembrosEstaticos.runtimeconfig.json
+D:\Curso C#\ConsoleApp1\MembrosEstaticos\bin\Debug\netcoreapp2.1\MembrosEstaticos.runtimeconfig.dev.json
+D:\Curso C#\ConsoleApp1\MembrosEstaticos\bin\Debug\netcoreapp2.1\MembrosEstaticos.dll
+D:\Curso C#\ConsoleApp1\MembrosEstaticos\bin\Debug\netcoreapp2.1\MembrosEstaticos.pdb
+D:\Curso C#\ConsoleApp1\MembrosEstaticos\obj\Debug\netcoreapp2.1\MembrosEstaticos.csprojAssemblyReference.cache
+D:\Curso C#\ConsoleApp1\MembrosEstaticos\obj\Debug\netcoreapp2.1\MembrosEstaticos.csproj.CoreCompileInputs.cache
+D:\Curso C#\ConsoleApp1\MembrosEstaticos\obj\Debug\netcoreapp2.1\MembrosEstaticos.AssemblyInfoInputs.cache
+D:\Curso C#\ConsoleApp1\MembrosEstaticos\obj\Debug\netcoreapp2.1\MembrosEstaticos.AssemblyInfo.cs
+D:\Curso C#\ConsoleApp1\MembrosEstaticos\obj\Debug\netcoreapp2.1\MembrosEstaticos.dll
+D:\Curso C#\ConsoleApp1\MembrosEstaticos\obj\Debug\netcoreapp2.1\MembrosEstaticos.pdb
